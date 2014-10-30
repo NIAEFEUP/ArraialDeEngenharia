@@ -917,7 +917,7 @@
     <lastmod>2014-10-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://niaefeup.github.io/ArraialDeEngenharia/phone/index.html"/>
-    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://niaefeup.github.io/ArraialDeEngenharia/tablet/index.html"/>
+    <!--xhtml:link rel="alternate" media="only screen and (max-device-width: 370px)" href="http://niaefeup.github.io/ArraialDeEngenharia/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-device-width: 960px)" href="http://niaefeup.github.io/ArraialDeEngenharia/tablet/index.html"/-->
   </url>
 </urlset>
