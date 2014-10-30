@@ -3217,7 +3217,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #7F7F7F;
-	background-image: url("../images/quimbig.jpg");
+	background: #7F7F7F url("../images/quimbig.jpg") no-repeat left top;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -3352,6 +3352,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #7F7F7F;
+	background: #7F7F7F url("../images/ginbig.jpg") no-repeat left top;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -3486,6 +3487,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #7F7F7F;
+	background: #7F7F7F url("../images/kurabig.jpg") no-repeat left top;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -3620,6 +3622,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #7F7F7F;
+	background: #7F7F7F url("../images/marquesbig.jpg") no-repeat left top;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -3754,6 +3757,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #7F7F7F;
+	background: #7F7F7F url("../images/capitaobig.jpg") no-repeat left top;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -3888,6 +3892,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #7F7F7F;
+	background: #7F7F7F url("../images/masterbig.jpg") no-repeat left top;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -4156,6 +4161,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #7F7F7F;
+	background: #7F7F7F url("../images/netskybig.jpg") no-repeat left top;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -4290,6 +4296,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #7F7F7F;
+	background: #7F7F7F url("../images/ninjabig.jpg") no-repeat left top;
 	position: relative;
 	margin-right: -10000px;
 }
