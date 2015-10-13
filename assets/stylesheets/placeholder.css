@@ -5,8 +5,3 @@ html {
   -o-background-size: contain,cover;
   background-size: contain,cover;
 }
-
-@viewport{
-    width: extend-to-zoom;
-    zoom: 1.0;
-}
