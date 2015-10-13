@@ -1,7 +1,7 @@
 html { 
-  background: url(../images/placeholder.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+  background: url(../images/letters.png) no-repeat center center fixed,url(../images/background.jpg) no-repeat center center fixed; 
+  -webkit-background-size: contain,cover;
+  -moz-background-size: contain,cover;
+  -o-background-size: contain,cover;
+  background-size: contain,cover;
 }
