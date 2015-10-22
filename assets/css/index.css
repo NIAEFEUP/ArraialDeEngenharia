@@ -1705,7 +1705,7 @@
 	z-index: 95;
 	border-style: none;
 	border-color: transparent;
-	background-color: #751414;
+	background-color: #9C1F22;
 	padding-bottom: 82px;
 }
 
@@ -2036,7 +2036,7 @@
 	z-index: 116;
 	border-style: none;
 	border-color: transparent;
-	background-color: #232B2B;
+	background-color: #1D1D1D;
 	/*background: url(../images/background.jpg) no-repeat center center fixed;
 	background-size: cover; */
 	padding-bottom: 510px;
@@ -2248,7 +2248,7 @@
 	z-index: 177;
 	border-style: none;
 	border-color: transparent;
-	background-color: #751414;
+	background-color: #9C1F22;
 	padding-bottom: 1227px;
 }
 
@@ -2957,6 +2957,7 @@
 	background-color: #7F7F7F;
 	position: relative;
 	margin-right: -10000px;
+	background: #7F7F7F url("../images/carlao_big.jpg") no-repeat left top;
 }
 
 #u596-4
@@ -4558,7 +4559,7 @@
 	z-index: 561;
 	border-style: none;
 	border-color: transparent;
-	background-color: #232B2B;
+	background-color: #1D1D1D;
 }
 
 #u815_align_to_page
@@ -5043,7 +5044,7 @@
 	z-index: 674;
 	border-style: none;
 	border-color: transparent;
-	background-color: #751414;
+	background-color: #9C1F22;
 }
 
 #u870_align_to_page
@@ -5839,7 +5840,7 @@
 	z-index: 707;
 	border-style: none;
 	border-color: transparent;
-	background-color: #751414;
+	background-color: #9C1F22;
 	padding-bottom: 7px;
 }
 
@@ -5939,7 +5940,7 @@
 	z-index: 708;
 	border-style: none;
 	border-color: transparent;
-	background-color: #232B2B;
+	background-color: #1D1D1D;
 	padding-bottom: 21px;
 }
 
