@@ -5217,13 +5217,15 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/wdb.png") no-repeat center center;
+	left: -90px;
+	background: transparent url("../images/assador.png") no-repeat center center;
 }
 
 #u4045:hover
 {
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/wdb-u4045-r-fr.png") no-repeat center center;
+	background: transparent url("../images/assador.png") no-repeat center center;
+	background-image: rgba(255, 255, 255, 0.5);
 }
 
 #pu4033
@@ -5267,6 +5269,7 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
+	left: 60px;
 	background: transparent url("../images/cidade.png") no-repeat center center;
 }
 
@@ -5362,26 +5365,6 @@
 	background: transparent url("../images/ipdj-u4032-r-fr.png") no-repeat center center;
 }
 
-#u4044
-{
-	z-index: 699;
-	width: 300px;
-	height: 140px;
-	border-style: none;
-	border-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 1255px;
-	left: 146px;
-	background: transparent url("../images/dragaocaixa.png") no-repeat center center;
-}
-
-#u4044:hover
-{
-	margin: 1255px -10000px 0px 0px;
-	background: transparent url("../images/dragaocaixa-u4044-r-fr.png") no-repeat center center;
-}
-
 #u4046
 {
 	z-index: 701;
@@ -5393,13 +5376,13 @@
 	margin-right: -10000px;
 	margin-top: 1255px;
 	left: 860px;
-	background: transparent url("../images/world.png") no-repeat center center;
+	background: transparent url("../images/porto.png") no-repeat center center;
 }
 
 #u4046:hover
 {
 	margin: 1255px -10000px 0px 0px;
-	background: transparent url("../images/world-u4046-r-fr.png") no-repeat center center;
+	background: rgba(255, 255, 255, 0.5) url("../images/porto.png") no-repeat center center;
 }
 
 #u4047
@@ -5412,7 +5395,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1255px;
-	left: 357px;
+	left: 146px;
 	background: transparent url("../images/spautores.png") no-repeat center center;
 }
 
@@ -5422,7 +5405,7 @@
 	background: transparent url("../images/spautores-u4047-r-fr.png") no-repeat center center;
 }
 
-.js #u173.ose_pre_init,.js #u172-13.ose_pre_init,.js #u175.ose_pre_init,.js #u292.ose_pre_init,.js #u294-11.ose_pre_init,.js #u296-13.ose_pre_init,.js #u300-15.ose_pre_init,.js #u302-15.ose_pre_init,.js #u874.ose_pre_init,.js #u971.ose_pre_init,.js #u973.ose_pre_init,.js #u975.ose_pre_init,.js #u974.ose_pre_init,.js #u4042.ose_pre_init,.js #u4045.ose_pre_init,.js #u4033.ose_pre_init,.js #u4041.ose_pre_init,.js #u4038.ose_pre_init,.js #u972.ose_pre_init,.js #u976.ose_pre_init,.js #u4032.ose_pre_init,.js #u4044.ose_pre_init,.js #u4046.ose_pre_init,.js #u4047.ose_pre_init
+.js #u173.ose_pre_init,.js #u172-13.ose_pre_init,.js #u175.ose_pre_init,.js #u292.ose_pre_init,.js #u294-11.ose_pre_init,.js #u296-13.ose_pre_init,.js #u300-15.ose_pre_init,.js #u302-15.ose_pre_init,.js #u874.ose_pre_init,.js #u971.ose_pre_init,.js #u973.ose_pre_init,.js #u975.ose_pre_init,.js #u974.ose_pre_init,.js #u4042.ose_pre_init,.js #u4045.ose_pre_init,.js #u4033.ose_pre_init,.js #u4041.ose_pre_init,.js #u4038.ose_pre_init,.js #u972.ose_pre_init,.js #u976.ose_pre_init,.js #u4032.ose_pre_init,.js #u4046.ose_pre_init,.js #u4047.ose_pre_init
 {
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
