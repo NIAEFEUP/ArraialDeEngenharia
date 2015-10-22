@@ -4995,6 +4995,25 @@
 	background-size: contain;
 }
 
+#u4436
+{
+	z-index: 631;
+	width: 150px;
+	height: 70px;
+	border-style: none;
+	border-color: transparent;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	-khtml-border-radius: 1px;
+	border-radius: 1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 470px;
+	left: 1117px;
+	background: transparent url("../images/bilheteira-u4435-fr.png") no-repeat left top;
+	background-size: contain;
+}
+
 #u4428:hover,#u4435:hover
 {
 	background-repeat: no-repeat;
