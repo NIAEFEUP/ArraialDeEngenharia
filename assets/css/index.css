@@ -73,7 +73,7 @@
 	width: 300px;
 	min-height: 43px;
 	background-color: transparent;
-	color: #FFFFFF;
+	color: #1D1D1D;
 	text-align: right;
 	font-family: raleway, sans-serif;
 	font-weight: 700;
@@ -2307,7 +2307,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/lewis.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/subfocus.jpg") no-repeat left top;
 }
 
 #u449-4
@@ -2343,7 +2343,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/skinus.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/carlao.jpg") no-repeat left top;
 }
 
 #u589-4
@@ -2380,7 +2380,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/luismack.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/djogje.jpg") no-repeat left top;
 }
 
 #u595-4
@@ -2417,7 +2417,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/quim.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/jimmyp.jpg") no-repeat left top;
 }
 
 #u628-4
@@ -2454,7 +2454,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/gin.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/moullinex.jpg") no-repeat left top;
 }
 
 #u634-4
@@ -2492,7 +2492,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/kura.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/cazanova.jpg") no-repeat left top;
 }
 
 #u640-4
@@ -2529,7 +2529,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/marques.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/djnuno.jpg") no-repeat left top;
 }
 
 #u646-4
@@ -2571,7 +2571,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/capitao.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/teup.jpg") no-repeat left top;
 }
 
 #u652-4
@@ -2609,7 +2609,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/masterjake.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/ghost_martelo.jpg") no-repeat left top;
 }
 
 #u658-4
@@ -2647,7 +2647,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/garagem.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/putaarmada.jpg") no-repeat left top;
 }
 
 #u664-4
@@ -2690,7 +2690,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/netsky.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/two&vveils.jpg") no-repeat left top;
 }
 
 #u670-4
@@ -2729,7 +2729,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/ninjakore.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/garagem.jpg") no-repeat left top;
 }
 
 #u385.PamphletThumbSelected #u408,#u575.PamphletThumbSelected #u588,#u590.PamphletThumbSelected #u594,#u614.PamphletThumbSelected #u627,#u629.PamphletThumbSelected #u633,#u635.PamphletThumbSelected #u639,#u641.PamphletThumbSelected #u645,#u647.PamphletThumbSelected #u651,#u653.PamphletThumbSelected #u657,#u659.PamphletThumbSelected #u663,#u665.PamphletThumbSelected #u669,#u671.PamphletThumbSelected #u675
@@ -2822,6 +2822,7 @@
 	background-color: #7F7F7F;
 	position: relative;
 	margin-right: -10000px;
+	background: #7F7F7F url("../images/subfocus_big.jpg") no-repeat left top;
 }
 
 #u450-4
