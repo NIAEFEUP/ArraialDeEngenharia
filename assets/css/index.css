@@ -5217,7 +5217,7 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: -90px;
+	left:30px;
 	background: transparent url("../images/assador.png") no-repeat center center;
 }
 
@@ -5365,6 +5365,27 @@
 	background: transparent url("../images/ipdj-u4032-r-fr.png") no-repeat center center;
 }
 
+
+#u4044
+{
+	z-index: 699;
+	width: 300px;
+	height: 140px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1255px;
+	left: 390px;
+	background: transparent url("../images/europa.png") no-repeat center center;
+}
+
+#u4044:hover
+{
+	margin: 1255px -10000px 0px 0px;
+	background: transparent url("../images/europa.png") no-repeat center center;
+}
+
 #u4046
 {
 	z-index: 701;
@@ -5382,7 +5403,7 @@
 #u4046:hover
 {
 	margin: 1255px -10000px 0px 0px;
-	background: rgba(255, 255, 255, 0.5) url("../images/porto.png") no-repeat center center;
+	background: transparent url("../images/porto.png") no-repeat center center;
 }
 
 #u4047
