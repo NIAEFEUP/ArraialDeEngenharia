@@ -4900,7 +4900,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 473px;
-	left: 445px;
+	left: 425px;
 	background: transparent url("../images/aefeup-u4414-fr.png") no-repeat left top;
 	background-size: contain;
 }
@@ -4929,8 +4929,8 @@
 	border-radius: 1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 469px;
-	left: 612px;
+	margin-top: 463px;
+	left: 570px;
 	background: transparent url("../images/enjoy-u4421-fr.png") no-repeat left top;
 	background-size: contain;
 }
@@ -4942,7 +4942,7 @@
 	opacity: 0.6;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
 	filter: alpha(opacity=60);
-	margin: 469px -10000px 0px 0px;
+	margin: 463px -10000px 0px 0px;
 	background-size: contain;
 }
 
@@ -4953,7 +4953,7 @@
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
-	margin: 469px -10000px 0px 0px;
+	margin: 463px -10000px 0px 0px;
 	background-size: contain;
 }
 
@@ -4971,7 +4971,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 470px;
-	left: 780px;
+	left: 710px;
 	background: transparent url("../images/adega-u4428-fr.png") no-repeat left top;
 	background-size: contain;
 }
@@ -4990,8 +4990,8 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 470px;
-	left: 947px;
-	background: transparent url("../images/bilheteira-u4435-fr.png") no-repeat left top;
+	left: 850px;
+	background: transparent url("../images/bilheteira_on.png") no-repeat left top;
 	background-size: contain;
 }
 
@@ -5009,12 +5009,12 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 470px;
-	left: 1117px;
-	background: transparent url("../images/bilheteira-u4435-fr.png") no-repeat left top;
+	left: 1002px;
+	background: transparent url("../images/inox.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u4428:hover,#u4435:hover
+#u4428:hover,#u4435:hover, #u4436:hover
 {
 	background-repeat: no-repeat;
 	background-position: left top;
