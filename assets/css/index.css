@@ -5225,7 +5225,7 @@
 #u4045:hover
 {
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/assador.png") no-repeat center center;
+	background: transparent url("../images/logos/assador_50.png") no-repeat center center;
 	background-image: rgba(255, 255, 255, 0.5);
 }
 
@@ -5384,7 +5384,7 @@
 #u4044:hover
 {
 	margin: 1255px -10000px 0px 0px;
-	background: transparent url("../images/europa.png") no-repeat center center;
+	background: transparent url("../images/logos/europa_50.png") no-repeat center center;
 }
 
 #u4046
@@ -5404,7 +5404,7 @@
 #u4046:hover
 {
 	margin: 1255px -10000px 0px 0px;
-	background: transparent url("../images/porto.png") no-repeat center center;
+	background: transparent url("../images/logos/porto_50.png") no-repeat center center;
 }
 
 #u4047
