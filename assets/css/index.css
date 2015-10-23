@@ -4623,7 +4623,7 @@
 
 #u860-3
 {
-	line-height: 0px;/* 0 for mixed font sized paras; applied on spans instead */
+	margin-top: -10px;
 }
 
 #u860
@@ -4902,8 +4902,8 @@
 	border-radius: 1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 473px;
-	left: 425px;
+	margin-top: 533px;
+	left: 370px;
 	background: transparent url("../images/aefeup-u4414-fr.png") no-repeat left top;
 	background-size: contain;
 }
@@ -4915,7 +4915,7 @@
 	opacity: 0.6;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
 	filter: alpha(opacity=60);
-	margin: 473px -10000px 0px 0px;
+	margin: 533px -10000px 0px 0px;
 	background-size: contain;
 }
 
@@ -4932,8 +4932,8 @@
 	border-radius: 1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 463px;
-	left: 570px;
+	margin-top: 523px;
+	left: 530px;
 	background: transparent url("../images/enjoy-u4421-fr.png") no-repeat left top;
 	background-size: contain;
 }
@@ -4945,7 +4945,7 @@
 	opacity: 0.6;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
 	filter: alpha(opacity=60);
-	margin: 463px -10000px 0px 0px;
+	margin: 523px -10000px 0px 0px;
 	background-size: contain;
 }
 
@@ -4956,9 +4956,51 @@
 	opacity: 0.5;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
 	filter: alpha(opacity=50);
-	margin: 463px -10000px 0px 0px;
+	margin: 523px -10000px 0px 0px;
 	background-size: contain;
 }
+
+#u4422
+{
+	z-index: 629;
+	width: 150px;
+	height: 70px;
+	border-style: none;
+	border-color: transparent;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	-khtml-border-radius: 1px;
+	border-radius: 1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 533px;
+	left: 195px;
+	background: transparent url("../images/piolho.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4422:hover
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+	margin: 533px -10000px 0px 0px;
+	background-size: contain;
+}
+
+#u4422:active
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	margin: 533px -10000px 0px 0px;
+	background-size: contain;
+}
+
 
 #u4428
 {
@@ -4973,8 +5015,8 @@
 	border-radius: 1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 470px;
-	left: 710px;
+	margin-top: 530px;
+	left: 690px;
 	background: transparent url("../images/adega-u4428-fr.png") no-repeat left top;
 	background-size: contain;
 }
@@ -4992,8 +5034,8 @@
 	border-radius: 1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 470px;
-	left: 850px;
+	margin-top: 530px;
+	left: 840px;
 	background: transparent url("../images/bilheteira_on.png") no-repeat left top;
 	background-size: contain;
 }
@@ -5011,7 +5053,7 @@
 	border-radius: 1px;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 470px;
+	margin-top: 530px;
 	left: 1002px;
 	background: transparent url("../images/inox.png") no-repeat left top;
 	background-size: contain;
@@ -5024,7 +5066,7 @@
 	opacity: 0.6;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
 	filter: alpha(opacity=60);
-	margin: 470px -10000px 0px 0px;
+	margin: 530px -10000px 0px 0px;
 	background-size: contain;
 }
 
