@@ -11,7 +11,7 @@
 
 .html
 {
-	background-color: #3B1311;
+	background-color: #7E7E7E;
 }
 
 #page
@@ -22,7 +22,7 @@
 	background-image: none;
 	border-style: none;
 	border-color: transparent;
-	background-color: #3B1311;
+	background-color: #7E7E7E;
 	margin-left: auto;
 	margin-right: auto;
 }
@@ -33,7 +33,7 @@
 	height: 1106px;
 	border-style: none;
 	border-color: transparent;
-	background: transparent url("../images/1.jpg") no-repeat center bottom;
+	background: transparent url("../images/fundo_1.jpg") no-repeat center bottom;
 	background-size: cover;
 }
 
@@ -416,8 +416,9 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	margin-top: 22px;
-	background: transparent url("../images/logo_site.png") no-repeat left top;
+	margin-top: 0px;
+	background: transparent url("../images/logo_site.png") no-repeat center;
+	background-size: 60%;
 }
 
 #home
@@ -1705,7 +1706,7 @@
 	z-index: 95;
 	border-style: none;
 	border-color: transparent;
-	background-color: #9C1F22;
+	background-color: #DADFE2;
 	padding-bottom: 82px;
 }
 
@@ -1790,7 +1791,7 @@
 	height: 625px;
 	border-style: none;
 	border-color: transparent;
-	background: transparent url("../images/2.jpg") no-repeat center center;
+	background: transparent url("../images/fundo_2.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -1811,7 +1812,7 @@
 	background-color: transparent;
 	line-height: 36px;
 	font-size: 36px;
-	color: #FFFFFF;
+	color: #E62C2B;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -2249,7 +2250,7 @@
 	z-index: 177;
 	border-style: none;
 	border-color: transparent;
-	background-color: #9C1F22;
+	background-color: #dadfe2;
 	padding-bottom: 1227px;
 }
 
@@ -2308,7 +2309,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/subfocus.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/artists/artist_1_small.png") no-repeat center;
 }
 
 #u449-4
@@ -2318,7 +2319,7 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #FFFFFF;
+	color: #000000;
 	font-family: raleway, sans-serif;
 	font-weight: 700;
 	margin-top: 10px;
@@ -2344,7 +2345,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/carlao.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/artists/artist_2_small.png") no-repeat left top;
 }
 
 #u589-4
@@ -2354,7 +2355,7 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #FFFFFF;
+	color: #000000;
 	font-family: raleway, sans-serif;
 	font-weight: 700;
 	margin-top: 10px;
@@ -2381,7 +2382,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/djogje.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/artists/artist_3_small.png") no-repeat left top;
 }
 
 #u595-4
@@ -2391,7 +2392,7 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #FFFFFF;
+	color: #000000;
 	font-family: raleway, sans-serif;
 	font-weight: 700;
 	margin-top: 10px;
@@ -2418,7 +2419,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/jimmyp.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/artists/artist_4_small.png") no-repeat left top;
 }
 
 #u628-4
@@ -2428,7 +2429,7 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #FFFFFF;
+	color: #000000;
 	font-family: raleway, sans-serif;
 	font-weight: 700;
 	margin-top: 10px;
@@ -2455,7 +2456,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/moullinex.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/artists/artist_5_small.png") no-repeat left top;
 }
 
 #u634-4
@@ -2465,7 +2466,7 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #FFFFFF;
+	color: #000000;
 	font-family: raleway, sans-serif;
 	font-weight: 700;
 	margin-top: 10px;
@@ -2493,7 +2494,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/cazanova.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/artists/artist_6_small.png") no-repeat left top;
 }
 
 #u640-4
@@ -2503,7 +2504,7 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #FFFFFF;
+	color: #000000;
 	font-family: raleway, sans-serif;
 	font-weight: 700;
 	margin-top: 10px;
@@ -2530,7 +2531,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/djnuno.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/artists/artist_7_small.png") no-repeat left top;
 }
 
 #u646-4
@@ -2540,7 +2541,7 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #FFFFFF;
+	color: #000000;
 	font-family: raleway, sans-serif;
 	font-weight: 700;
 	margin-top: 10px;
@@ -2572,7 +2573,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/teup.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/artists/artist_8_small.jpg") no-repeat left top;
 }
 
 #u652-4
@@ -2582,7 +2583,7 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #FFFFFF;
+	color: #000000;
 	font-family: raleway, sans-serif;
 	font-weight: 700;
 	margin-top: 10px;
@@ -2610,7 +2611,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/ghost_martelo.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/artists/artist_9_small.png") no-repeat left top;
 }
 
 #u658-4
@@ -2620,7 +2621,7 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #FFFFFF;
+	color: #000000;
 	font-family: raleway, sans-serif;
 	font-weight: 700;
 	margin-top: 10px;
@@ -2648,7 +2649,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/putaarmada.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/artists/artist_10_small.png") no-repeat left top;
 }
 
 #u664-4
@@ -2658,7 +2659,7 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #FFFFFF;
+	color: #000000;
 	font-family: raleway, sans-serif;
 	font-weight: 700;
 	margin-top: 10px;
@@ -2691,7 +2692,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/two&vveils.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/artists/artist_11_small.png") no-repeat left top;
 }
 
 #u670-4
@@ -2701,7 +2702,7 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #FFFFFF;
+	color: #000000;
 	font-family: raleway, sans-serif;
 	font-weight: 700;
 	margin-top: 10px;
@@ -2730,7 +2731,7 @@
 	border-style: solid;
 	border-color: #3B1311;
 	position: relative;
-	background: #7F7F7F url("../images/garagem.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/artists/artist_12_small.jpg") no-repeat left top;
 }
 
 #u385.PamphletThumbSelected #u408,#u575.PamphletThumbSelected #u588,#u590.PamphletThumbSelected #u594,#u614.PamphletThumbSelected #u627,#u629.PamphletThumbSelected #u633,#u635.PamphletThumbSelected #u639,#u641.PamphletThumbSelected #u645,#u647.PamphletThumbSelected #u651,#u653.PamphletThumbSelected #u657,#u659.PamphletThumbSelected #u663,#u665.PamphletThumbSelected #u669,#u671.PamphletThumbSelected #u675
@@ -2750,7 +2751,7 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #FFFFFF;
+	color: #000000;
 	font-family: raleway, sans-serif;
 	font-weight: 700;
 	margin-top: 10px;
@@ -2810,7 +2811,7 @@
 	position: relative;
 	top: 22px;
 	left: 22px;
-	background: #E62C2B url("../images/lightbox_back.png") no-repeat center bottom;
+	background: #7E7E7E url("../images/lightbox_back.png") no-repeat center bottom;
 }
 
 #u455
@@ -2823,7 +2824,8 @@
 	background-color: #7F7F7F;
 	position: relative;
 	margin-right: -10000px;
-	background: #7F7F7F url("../images/subfocus_big.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/artists/artist_1_big.png") no-repeat center;
+	background-size: cover;
 }
 
 #u450-4
@@ -2945,7 +2947,7 @@
 	position: relative;
 	top: 22px;
 	left: 22px;
-	background: #E62C2B url("../images/lightbox_back.png") no-repeat center bottom;
+	background: #7E7E7E url("../images/lightbox_back.png") no-repeat center bottom;
 }
 
 #u599
@@ -2958,7 +2960,7 @@
 	background-color: #7F7F7F;
 	position: relative;
 	margin-right: -10000px;
-	background: #7F7F7F url("../images/carlao_big.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/artists/artist_2_big.png") no-repeat left top;
 }
 
 #u596-4
@@ -3080,7 +3082,7 @@
 	position: relative;
 	top: 22px;
 	left: 22px;
-	background: #E62C2B url("../images/lightbox_back.png") no-repeat center bottom;
+	background: #7E7E7E url("../images/lightbox_back.png") no-repeat center bottom;
 }
 
 #u608
@@ -3093,7 +3095,7 @@
 	background-color: #7F7F7F;
 	position: relative;
 	margin-right: -10000px;
-	background: #7F7F7F url("../images/djogje_big.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/artists/artist_3_big.png") no-repeat left top;
 }
 
 #u605-4
@@ -3215,7 +3217,7 @@
 	position: relative;
 	top: 22px;
 	left: 22px;
-	background: #E62C2B url("../images/lightbox_back.png") no-repeat center bottom;
+	background: #7E7E7E url("../images/lightbox_back.png") no-repeat center bottom;
 }
 
 #u698
@@ -3226,7 +3228,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #7F7F7F;
-	background: #7F7F7F url("../images/jimmyp_big.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/artists/artist_4_big.png") no-repeat left top;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -3350,7 +3352,7 @@
 	position: relative;
 	top: 22px;
 	left: 22px;
-	background: #E62C2B url("../images/lightbox_back.png") no-repeat center bottom;
+	background: #7E7E7E url("../images/lightbox_back.png") no-repeat center bottom;
 }
 
 #u707
@@ -3361,7 +3363,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #7F7F7F;
-	background: #7F7F7F url("../images/moullinex_big.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/artists/artist_5_big.png") no-repeat left top;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -3485,7 +3487,7 @@
 	position: relative;
 	top: 22px;
 	left: 22px;
-	background: #E62C2B url("../images/lightbox_back.png") no-repeat center bottom;
+	background: #7E7E7E url("../images/lightbox_back.png") no-repeat center bottom;
 }
 
 #u716
@@ -3496,7 +3498,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #7F7F7F;
-	background: #7F7F7F url("../images/cazanova_big.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/artists/artist_6_big.png") no-repeat left top;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -3620,7 +3622,7 @@
 	position: relative;
 	top: 22px;
 	left: 22px;
-	background: #E62C2B url("../images/lightbox_back.png") no-repeat center bottom;
+	background: #7E7E7E url("../images/lightbox_back.png") no-repeat center bottom;
 }
 
 #u725
@@ -3631,7 +3633,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #7F7F7F;
-	background: #7F7F7F url("../images/djnuno_big.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/artists/artist_7_big.png") no-repeat left top;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -3755,20 +3757,7 @@
 	position: relative;
 	top: 22px;
 	left: 22px;
-	background: #E62C2B url("../images/lightbox_back.png") no-repeat center bottom;
-}
-
-#u734
-{
-	z-index: 452;
-	width: 460px;
-	height: 600px;
-	border-style: none;
-	border-color: transparent;
-	background-color: #7F7F7F;
-	background: #7F7F7F url("../images/capitaobig.jpg") no-repeat left top;
-	position: relative;
-	margin-right: -10000px;
+	background: #7E7E7E url("../images/lightbox_back.png") no-repeat center bottom;
 }
 
 #u731-4
@@ -3890,7 +3879,7 @@
 	position: relative;
 	top: 22px;
 	left: 22px;
-	background: #E62C2B url("../images/lightbox_back.png") no-repeat center bottom;
+	background: #7E7E7E url("../images/lightbox_back.png") no-repeat center bottom;
 }
 
 #u743
@@ -3901,7 +3890,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #7F7F7F;
-	background: #7F7F7F url("../images/ghost_martelo_big.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/artists/artist_9_big.png") no-repeat left top;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -4025,7 +4014,7 @@
 	position: relative;
 	top: 22px;
 	left: 22px;
-	background: #E62C2B url("../images/lightbox_back.png") no-repeat center bottom;
+	background: #7E7E7E url("../images/lightbox_back.png") no-repeat center bottom;
 }
 
 #u752
@@ -4159,7 +4148,7 @@
 	position: relative;
 	top: 22px;
 	left: 22px;
-	background: #E62C2B url("../images/lightbox_back.png") no-repeat center bottom;
+	background: #7E7E7E url("../images/lightbox_back.png") no-repeat center bottom;
 }
 
 #u761
@@ -4170,7 +4159,7 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: #7F7F7F;
-	background: #7F7F7F url("../images/two&vveils_big.jpg") no-repeat left top;
+	background: #7F7F7F url("../images/artists/artist_11_big.png") no-repeat left top;
 	position: relative;
 	margin-right: -10000px;
 }
@@ -4294,20 +4283,7 @@
 	position: relative;
 	top: 22px;
 	left: 22px;
-	background: #E62C2B url("../images/lightbox_back.png") no-repeat center bottom;
-}
-
-#u770
-{
-	z-index: 552;
-	width: 460px;
-	height: 600px;
-	border-style: none;
-	border-color: transparent;
-	background-color: #7F7F7F;
-	background: #7F7F7F url("../images/ninjabig.jpg") no-repeat left top;
-	position: relative;
-	margin-right: -10000px;
+	background: #7E7E7E url("../images/lightbox_back.png") no-repeat center bottom;
 }
 
 #pu450-4,#pu596-4,#pu605-4,#pu695-4,#pu704-4,#pu713-4,#pu722-4,#pu731-4,#pu740-4,#pu749-4,#pu758-4,#pu767-4
@@ -4525,7 +4501,7 @@
 	background-color: transparent;
 	line-height: 36px;
 	font-size: 36px;
-	color: #FFFFFF;
+	color: #E62C2B;
 	font-family: bebas-neue, sans-serif;
 	font-weight: 400;
 	position: fixed;
@@ -4903,8 +4879,9 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 533px;
+	margin-left: 10px;
 	left: 370px;
-	background: transparent url("../images/aefeup-u4414-fr.png") no-repeat left top;
+	background: transparent url("../images/sales_points/sales_point_2.png") no-repeat left top;
 	background-size: contain;
 }
 
@@ -4915,7 +4892,7 @@
 	opacity: 0.6;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
 	filter: alpha(opacity=60);
-	margin: 533px -10000px 0px 0px;
+	margin: 533px -10000px 0px 10px;
 	background-size: contain;
 }
 
@@ -4933,8 +4910,9 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 523px;
+	margin-left: 10px;
 	left: 530px;
-	background: transparent url("../images/enjoy-u4421-fr.png") no-repeat left top;
+	background: transparent url("../images/sales_points/sales_point_3.png") no-repeat left top;
 	background-size: contain;
 }
 
@@ -4945,7 +4923,7 @@
 	opacity: 0.6;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
 	filter: alpha(opacity=60);
-	margin: 523px -10000px 0px 0px;
+	margin: 523px -10000px 0px 10px;
 	background-size: contain;
 }
 
@@ -4969,24 +4947,26 @@
 	border-color: transparent;
 	-moz-border-radius: 1px;
 	-webkit-border-radius: 1px;
+	-webkit-filter: brightness(0) invert(1);
 	-khtml-border-radius: 1px;
 	border-radius: 1px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 533px;
+	margin-left: 10px;
 	left: 195px;
-	background: transparent url("../images/piolho.png") no-repeat left top;
+	background: transparent url("../images/sales_points/sales_point_1.png") no-repeat center;
 	background-size: contain;
 }
 
 #u4422:hover
 {
 	background-repeat: no-repeat;
-	background-position: left top;
+	background-position: center;
 	opacity: 0.6;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
 	filter: alpha(opacity=60);
-	margin: 533px -10000px 0px 0px;
+	margin: 533px -10000px 0px 10px;
 	background-size: contain;
 }
 
@@ -5016,8 +4996,9 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 530px;
+	margin-left: 10px;
 	left: 690px;
-	background: transparent url("../images/adega-u4428-fr.png") no-repeat left top;
+	background: transparent url("../images/sales_points/sales_point_4.png") no-repeat left top;
 	background-size: contain;
 }
 
@@ -5035,38 +5016,20 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 530px;
+	margin-left: 10px;
 	left: 840px;
-	background: transparent url("../images/bilheteira_on.png") no-repeat left top;
+	background: transparent url("../images/sales_points/sales_point_5.png") no-repeat left top;
 	background-size: contain;
 }
 
-#u4436
-{
-	z-index: 631;
-	width: 150px;
-	height: 70px;
-	border-style: none;
-	border-color: transparent;
-	-moz-border-radius: 1px;
-	-webkit-border-radius: 1px;
-	-khtml-border-radius: 1px;
-	border-radius: 1px;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 530px;
-	left: 1002px;
-	background: transparent url("../images/inox.png") no-repeat left top;
-	background-size: contain;
-}
-
-#u4428:hover,#u4435:hover, #u4436:hover
+#u4428:hover,#u4435:hover
 {
 	background-repeat: no-repeat;
 	background-position: left top;
 	opacity: 0.6;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
 	filter: alpha(opacity=60);
-	margin: 530px -10000px 0px 0px;
+	margin: 530px -10000px 0px 10px;
 	background-size: contain;
 }
 
@@ -5107,7 +5070,7 @@
 	z-index: 674;
 	border-style: none;
 	border-color: transparent;
-	background-color: #9C1F22;
+	background-color: #7E7E7E;
 }
 
 #u870_align_to_page
@@ -5155,13 +5118,13 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/caixa.png") no-repeat center center;
+	background: transparent url("../images/sponsors/sponsor_1.png") no-repeat center center;
 }
 
 #u971:hover
 {
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/caixa-u971-r-fr.png") no-repeat center center;
+	background: transparent url("../images/sponsors/sponsor_1_hover.png") no-repeat center center;
 }
 
 #ppu973
@@ -5185,13 +5148,13 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	background: transparent url("../images/nicepleasure.png") no-repeat center center;
+	background: transparent url("../images/sponsors/sponsor_2.png") no-repeat center center;
 }
 
 #u973:hover
 {
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/nicepleasure-u973-r-fr.png") no-repeat center center;
+	background: transparent url("../images/sponsors/sponsor_2_hover.png") no-repeat center center;
 }
 
 #u975
@@ -5204,13 +5167,13 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 320px;
-	background: transparent url("../images/moche.png") no-repeat center center;
+	background: transparent url("../images/sponsors/sponsor_3.png") no-repeat center center;
 }
 
 #u975:hover
 {
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/moche-u975-r-fr.png") no-repeat center center;
+	background: transparent url("../images/sponsors/sponsor_3_hover.png") no-repeat center center;
 }
 
 #u974
@@ -5223,13 +5186,13 @@
 	margin-left: 134px;
 	margin-top: 20px;
 	position: relative;
-	background: transparent url("../images/redbull.png") no-repeat center center;
+	background: transparent url("../images/sponsors/sponsor_6.png") no-repeat center center;
 }
 
 #u974:hover
 {
 	margin: 20px 0px 0px 134px;
-	background: transparent url("../images/redbull-u974-r-fr.png") no-repeat center center;
+	background: transparent url("../images/sponsors/sponsor_6_hover.png") no-repeat center center;
 }
 
 #pu4042
@@ -5261,13 +5224,13 @@
 	position: relative;
 	margin-right: -10000px;
 	left:30px;
-	background: transparent url("../images/assador.png") no-repeat center center;
+	background: transparent url("../images/supporters/supporter_3.png") no-repeat center center;
 }
 
 #u4045:hover
 {
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/logos/assador_50.png") no-repeat center center;
+	background: transparent url("../images/supporters/supporter_3_hover.png") no-repeat center center;
 	background-image: rgba(255, 255, 255, 0.5);
 }
 
@@ -5313,13 +5276,13 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 60px;
-	background: transparent url("../images/cidade.png") no-repeat center center;
+	background: transparent url("../images/media_partners/media_partner_1.png") no-repeat center center;
 }
 
 #u4041:hover
 {
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/cidade-u4041-r-fr.png") no-repeat center center;
+	background: transparent url("../images/media_partners/media_partner_1_hover.png") no-repeat center center;
 }
 
 #u4038
@@ -5332,13 +5295,13 @@
 	position: relative;
 	margin-right: -10000px;
 	left: 430px;
-	background: transparent url("../images/radio.png") no-repeat center center;
+	background: transparent url("../images/media_partners/media_partner_2.png") no-repeat center center;
 }
 
 #u4038:hover
 {
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/radio-u4038-r-fr.png") no-repeat center center;
+	background: transparent url("../images/media_partners/media_partner_2_hover.png") no-repeat center center;
 }
 
 #u870-bw
@@ -5350,6 +5313,7 @@
 
 #u972
 {
+	display: none;
 	z-index: 681;
 	width: 300px;
 	height: 140px;
@@ -5359,17 +5323,18 @@
 	margin-right: -10000px;
 	margin-top: 938px;
 	left: 160px;
-	background: transparent url("../images/nvending.png") no-repeat center center;
+	background: transparent url("../images/sponsors/sponsor_4.png") no-repeat center center;
 }
 
 #u972:hover
 {
 	margin: 938px -10000px 0px 0px;
-	background: transparent url("../images/nvending-u972-r-fr.png") no-repeat center center;
+	background: transparent url("../images/sponsors/sponsor_4_hover.png") no-repeat center center;
 }
 
 #u976
 {
+	display: none;
 	z-index: 685;
 	width: 300px;
 	height: 140px;
@@ -5379,13 +5344,13 @@
 	margin-right: -10000px;
 	margin-top: 938px;
 	left: 880px;
-	background: transparent url("../images/superbock.png") no-repeat center center;
+	background: transparent url("../images/sponsors/sponsor_7.png") no-repeat center center;
 }
 
 #u976:hover
 {
 	margin: 938px -10000px 0px 0px;
-	background: transparent url("../images/superbock-u976-r-fr.png") no-repeat center center;
+	background: transparent url("../images/sponsors/sponsor_7_hover.png") no-repeat center center;
 }
 
 #u4032
@@ -5399,13 +5364,13 @@
 	margin-right: -10000px;
 	margin-top: 938px;
 	left: 402px;
-	background: transparent url("../images/ipdj.png") no-repeat center center;
+	background: transparent url("../images/sponsors/sponsor_5.png") no-repeat center center;
 }
 
 #u4032:hover
 {
 	margin: 938px -10000px 0px 0px;
-	background: transparent url("../images/ipdj-u4032-r-fr.png") no-repeat center center;
+	background: transparent url("../images/sponsors/sponsor_5_hover.png") no-repeat center center;
 }
 
 
@@ -5420,13 +5385,13 @@
 	margin-right: -10000px;
 	margin-top: 1255px;
 	left: 390px;
-	background: transparent url("../images/europa.png") no-repeat center center;
+	background: transparent url("../images/supporters/supporter_2.png") no-repeat center center;
 }
 
 #u4044:hover
 {
 	margin: 1255px -10000px 0px 0px;
-	background: transparent url("../images/logos/europa_50.png") no-repeat center center;
+	background: transparent url("../images/supporters/supporter_2_hover.png") no-repeat center center;
 }
 
 #u4046
@@ -5440,13 +5405,13 @@
 	margin-right: -10000px;
 	margin-top: 1255px;
 	left: 860px;
-	background: transparent url("../images/porto.png") no-repeat center center;
+	background: transparent url("../images/supporters/supporter_4.png") no-repeat center center;
 }
 
 #u4046:hover
 {
 	margin: 1255px -10000px 0px 0px;
-	background: transparent url("../images/logos/porto_50.png") no-repeat center center;
+	background: transparent url("../images/supporters/supporter_4_hover.png") no-repeat center center;
 }
 
 #u4047
@@ -5460,13 +5425,13 @@
 	margin-right: -10000px;
 	margin-top: 1255px;
 	left: 146px;
-	background: transparent url("../images/spautores.png") no-repeat center center;
+	background: transparent url("../images/supporters/supporter_1.png") no-repeat center center;
 }
 
 #u4047:hover
 {
 	margin: 1255px -10000px 0px 0px;
-	background: transparent url("../images/spautores-u4047-r-fr.png") no-repeat center center;
+	background: transparent url("../images/supporters/supporter_1_hover.png") no-repeat center center;
 }
 
 .js #u173.ose_pre_init,.js #u172-13.ose_pre_init,.js #u175.ose_pre_init,.js #u292.ose_pre_init,.js #u294-11.ose_pre_init,.js #u296-13.ose_pre_init,.js #u300-15.ose_pre_init,.js #u302-15.ose_pre_init,.js #u874.ose_pre_init,.js #u971.ose_pre_init,.js #u973.ose_pre_init,.js #u975.ose_pre_init,.js #u974.ose_pre_init,.js #u4042.ose_pre_init,.js #u4045.ose_pre_init,.js #u4033.ose_pre_init,.js #u4041.ose_pre_init,.js #u4038.ose_pre_init,.js #u972.ose_pre_init,.js #u976.ose_pre_init,.js #u4032.ose_pre_init,.js #u4046.ose_pre_init,.js #u4047.ose_pre_init
@@ -5490,7 +5455,7 @@
 	height: 469px;
 	border-style: none;
 	border-color: transparent;
-	background: #871A19 url("../images/3.jpg") no-repeat center center;
+	background: #871A19 url("../images/fundo_3.jpg") no-repeat center center;
 	background-size: cover;
 }
 
@@ -5907,7 +5872,7 @@
 	z-index: 707;
 	border-style: none;
 	border-color: transparent;
-	background-color: #9C1F22;
+	background-color: #dadfe2;
 	padding-bottom: 7px;
 }
 
@@ -6051,4 +6016,3 @@ body
 	position: relative;
 	min-width: 1140px;
 }
-
