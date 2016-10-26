@@ -5250,13 +5250,13 @@
 	position: relative;
 	margin-right: -10000px;
 	left:30px;
-	background: transparent url("../images/supporters/supporter_3.png") no-repeat center center;
+	background: transparent url("../images/supporters/supporter_4.png") no-repeat center center;
 }
 
 #u4045:hover
 {
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/supporters/supporter_3_hover.png") no-repeat center center;
+	background: transparent url("../images/supporters/supporter_4_hover.png") no-repeat center center;
 	background-image: rgba(255, 255, 255, 0.5);
 }
 
@@ -5411,17 +5411,18 @@
 	margin-right: -10000px;
 	margin-top: 1255px;
 	left: 390px;
-	background: transparent url("../images/supporters/supporter_2.png") no-repeat center center;
+	background: transparent url("../images/supporters/supporter_1.png") no-repeat center center;
 }
 
 #u4044:hover
 {
 	margin: 1255px -10000px 0px 0px;
-	background: transparent url("../images/supporters/supporter_2_hover.png") no-repeat center center;
+	background: transparent url("../images/supporters/supporter_1_hover.png") no-repeat center center;
 }
 
 #u4046
 {
+	display: none;
 	z-index: 701;
 	width: 300px;
 	height: 140px;
@@ -5436,12 +5437,14 @@
 
 #u4046:hover
 {
+	display: none;
 	margin: 1255px -10000px 0px 0px;
 	background: transparent url("../images/supporters/supporter_4_hover.png") no-repeat center center;
 }
 
 #u4047
 {
+	display: none;
 	z-index: 702;
 	width: 300px;
 	height: 140px;
@@ -5456,6 +5459,7 @@
 
 #u4047:hover
 {
+	display: none;
 	margin: 1255px -10000px 0px 0px;
 	background: transparent url("../images/supporters/supporter_1_hover.png") no-repeat center center;
 }
