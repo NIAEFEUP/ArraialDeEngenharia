@@ -4879,7 +4879,6 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 533px;
-	margin-left: 10px;
 	left: 370px;
 	background: transparent url("../images/sales_points/sales_point_2.png") no-repeat left top;
 	background-size: contain;
@@ -4892,7 +4891,7 @@
 	opacity: 0.6;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
 	filter: alpha(opacity=60);
-	margin: 533px -10000px 0px 10px;
+	margin: 533px -10000px 0px 0px;
 	background-size: contain;
 }
 
@@ -4905,25 +4904,25 @@
 	border-color: transparent;
 	-moz-border-radius: 1px;
 	-webkit-border-radius: 1px;
+	-webkit-filter: brightness(0) invert(1);
 	-khtml-border-radius: 1px;
 	border-radius: 1px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 523px;
-	margin-left: 10px;
 	left: 530px;
-	background: transparent url("../images/sales_points/sales_point_3.png") no-repeat left top;
+	background: transparent url("../images/sales_points/sales_point_3.png") no-repeat center;
 	background-size: contain;
 }
 
 #u4421:hover
 {
 	background-repeat: no-repeat;
-	background-position: left top;
+	background-position: center;
 	opacity: 0.6;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
 	filter: alpha(opacity=60);
-	margin: 523px -10000px 0px 10px;
+	margin: 523px -10000px 0px 0px;
 	background-size: contain;
 }
 
@@ -4947,15 +4946,14 @@
 	border-color: transparent;
 	-moz-border-radius: 1px;
 	-webkit-border-radius: 1px;
-	-webkit-filter: brightness(0) invert(1);
 	-khtml-border-radius: 1px;
 	border-radius: 1px;
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 533px;
-	margin-left: 10px;
+	padding-left: 30px;
 	left: 195px;
-	background: transparent url("../images/sales_points/sales_point_1.png") no-repeat center;
+	background: transparent url("../images/sales_points/sales_point_1.jpg") no-repeat center;
 	background-size: contain;
 }
 
@@ -4966,7 +4964,7 @@
 	opacity: 0.6;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
 	filter: alpha(opacity=60);
-	margin: 533px -10000px 0px 10px;
+	margin: 533px -10000px 0px 0px;
 	background-size: contain;
 }
 
@@ -4996,7 +4994,6 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 530px;
-	margin-left: 10px;
 	left: 690px;
 	background: transparent url("../images/sales_points/sales_point_4.png") no-repeat left top;
 	background-size: contain;
@@ -5016,7 +5013,6 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 530px;
-	margin-left: 10px;
 	left: 840px;
 	background: transparent url("../images/sales_points/sales_point_5.png") no-repeat left top;
 	background-size: contain;
@@ -5029,7 +5025,37 @@
 	opacity: 0.6;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
 	filter: alpha(opacity=60);
-	margin: 530px -10000px 0px 10px;
+	margin: 530px -10000px 0px 0px;
+	background-size: contain;
+}
+
+#u4436
+{
+	z-index: 631;
+	width: 150px;
+	height: 70px;
+	border-style: none;
+	border-color: transparent;
+	-moz-border-radius: 1px;
+	-webkit-border-radius: 1px;
+	-khtml-border-radius: 1px;
+	border-radius: 1px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 530px;
+	left: 1002px;
+	background: transparent url("../images/sales_points/sales_point_6.png") no-repeat left top;
+	background-size: contain;
+}
+
+#u4436:hover
+{
+	background-repeat: no-repeat;
+	background-position: left top;
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+	margin: 530px -10000px 0px 0px;
 	background-size: contain;
 }
 
