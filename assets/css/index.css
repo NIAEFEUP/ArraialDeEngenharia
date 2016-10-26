@@ -4995,7 +4995,7 @@
 	margin-right: -10000px;
 	margin-top: 530px;
 	left: 690px;
-	background: transparent url("../images/sales_points/sales_point_4.png") no-repeat left top;
+	background: transparent url("../images/sales_points/sales_point_4.png") no-repeat center center;
 	background-size: contain;
 }
 
@@ -5018,10 +5018,21 @@
 	background-size: contain;
 }
 
-#u4428:hover,#u4435:hover
+#u4435:hover
 {
 	background-repeat: no-repeat;
 	background-position: left top;
+	opacity: 0.6;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
+	filter: alpha(opacity=60);
+	margin: 530px -10000px 0px 0px;
+	background-size: contain;
+}
+
+#u4428:hover
+{
+	background-repeat: no-repeat;
+	background-position: center center;
 	opacity: 0.6;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=60)";
 	filter: alpha(opacity=60);
@@ -5249,14 +5260,17 @@
 	border-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left:30px;
-	background: transparent url("../images/supporters/supporter_4.png") no-repeat center center;
+	left:60px;
+	background: transparent url("../images/supporters/supporter_5.png") no-repeat center center;
+	background-size: 150px;
 }
 
 #u4045:hover
 {
 	margin: 0px -10000px 0px 0px;
-	background: transparent url("../images/supporters/supporter_4_hover.png") no-repeat center center;
+	background: transparent url("../images/supporters/supporter_5.png") no-repeat center center;
+	opacity: 0.5 !important;
+	background-size: 150px;
 	background-image: rgba(255, 255, 255, 0.5);
 }
 
@@ -5410,7 +5424,7 @@
 	position: relative;
 	margin-right: -10000px;
 	margin-top: 1255px;
-	left: 390px;
+	left: 470px;
 	background: transparent url("../images/supporters/supporter_1.png") no-repeat center center;
 }
 
@@ -5422,7 +5436,6 @@
 
 #u4046
 {
-	display: none;
 	z-index: 701;
 	width: 300px;
 	height: 140px;
@@ -5437,14 +5450,35 @@
 
 #u4046:hover
 {
-	display: none;
 	margin: 1255px -10000px 0px 0px;
 	background: transparent url("../images/supporters/supporter_4_hover.png") no-repeat center center;
 }
 
 #u4047
 {
-	display: none;
+	z-index: 702;
+	width: 300px;
+	height: 140px;
+	border-style: none;
+	border-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 1255px;
+	left: 300px;
+	background: transparent url("../images/supporters/supporter_3.png") no-repeat center center;
+	background-size: 120px;
+}
+
+#u4047:hover
+{
+	margin: 1255px -10000px 0px 0px;
+	background: transparent url("../images/supporters/supporter_3.png") no-repeat center center;
+	opacity: 0.5 !important;
+	background-size: 120px;
+}
+
+#u40475
+{
 	z-index: 702;
 	width: 300px;
 	height: 140px;
@@ -5454,17 +5488,19 @@
 	margin-right: -10000px;
 	margin-top: 1255px;
 	left: 146px;
-	background: transparent url("../images/supporters/supporter_1.png") no-repeat center center;
+	background: transparent url("../images/supporters/supporter_2.png") no-repeat center center;
+	background-size: auto 140px;
 }
 
-#u4047:hover
+#u40475:hover
 {
-	display: none;
 	margin: 1255px -10000px 0px 0px;
-	background: transparent url("../images/supporters/supporter_1_hover.png") no-repeat center center;
+	background: transparent url("../images/supporters/supporter_2.png") no-repeat center center;
+	opacity: 0.5 !important;
+	background-size: auto 140px;
 }
 
-.js #u173.ose_pre_init,.js #u172-13.ose_pre_init,.js #u175.ose_pre_init,.js #u292.ose_pre_init,.js #u294-11.ose_pre_init,.js #u296-13.ose_pre_init,.js #u300-15.ose_pre_init,.js #u302-15.ose_pre_init,.js #u874.ose_pre_init,.js #u971.ose_pre_init,.js #u973.ose_pre_init,.js #u975.ose_pre_init,.js #u974.ose_pre_init,.js #u4042.ose_pre_init,.js #u4045.ose_pre_init,.js #u4033.ose_pre_init,.js #u4041.ose_pre_init,.js #u4038.ose_pre_init,.js #u972.ose_pre_init,.js #u976.ose_pre_init,.js #u4032.ose_pre_init,.js #u4046.ose_pre_init,.js #u4047.ose_pre_init
+.js #u173.ose_pre_init,.js #u172-13.ose_pre_init,.js #u175.ose_pre_init,.js #u292.ose_pre_init,.js #u294-11.ose_pre_init,.js #u296-13.ose_pre_init,.js #u300-15.ose_pre_init,.js #u302-15.ose_pre_init,.js #u874.ose_pre_init,.js #u971.ose_pre_init,.js #u973.ose_pre_init,.js #u975.ose_pre_init,.js #u974.ose_pre_init,.js #u4042.ose_pre_init,.js #u4045.ose_pre_init,.js #u4033.ose_pre_init,.js #u4041.ose_pre_init,.js #u4038.ose_pre_init,.js #u972.ose_pre_init,.js #u976.ose_pre_init,.js #u4032.ose_pre_init,.js #u4046.ose_pre_init,.js #u4047.ose_pre_init,.js #u40475.ose_pre_init
 {
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
